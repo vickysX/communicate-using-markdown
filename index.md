@@ -20,3 +20,8 @@ def hello(lang):
     
 print(hello("Python")
 ```
+
+### My fancy task list
+- [x] Learning GitHub
+- [ ] Becoming a good developer
+- [x] Having fun!
